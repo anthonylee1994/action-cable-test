@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"actioncable": "link:@types/@rails/actioncable"
+	}
+}
